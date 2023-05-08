@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaleedKhan296
+- 👋 Hi, I’m @WaleedAhmadKhan
 - 👀 I’m interested in web development,design,app development.  
 - 🌱 I’m currently learning Javascript,React.   
 - 💞️ I’m looking to collaborate on ...
